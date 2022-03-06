@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ggalactiko
-- 👀 I’m interested in js 
-- 🌱 I’m currently learning js
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning python
