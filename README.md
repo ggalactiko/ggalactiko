@@ -1,4 +1,4 @@
 
 ## 👋 Hi, I’m @ggalactiko
 
-[Fembot](https://galactiko.net) developer
+- [Fembot](https://galactiko.net) developer
