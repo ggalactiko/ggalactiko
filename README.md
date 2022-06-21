@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ggalactiko
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning python
+##👋 Hi, I’m @ggalactiko
+
+[Fembot](https://galactiko.net) developer
