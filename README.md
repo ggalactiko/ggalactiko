@@ -5,8 +5,8 @@
 - Pizza enjoyer 
 - 14yo
 
-### Stats
-## GitHub Stats
+## Stats
+### GitHub Stats
 [![ggalactiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalactiko)](https://github.com/anuraghazra/github-readme-stats)
-## Languages
+### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggalactiko)](https://github.com/anuraghazra/github-readme-stats)
