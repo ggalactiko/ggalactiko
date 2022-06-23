@@ -4,9 +4,4 @@
 - [Fembot](https://galactiko.net) developer
 - Pizza enjoyer 
 - 14yo
-
-## Stats
-### GitHub Stats
-[![ggalactiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalactiko)](https://github.com/anuraghazra/github-readme-stats)
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggalactiko)](https://github.com/anuraghazra/github-readme-stats)
+[![dog](https://github.com/ggalactiko/ggalactiko/blob/main/b4647126-0aef-4d19-af4f-ae48cd86e861.gif?raw=true)
