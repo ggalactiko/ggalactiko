@@ -2,19 +2,7 @@
 ## Hi, I’m ggalactiko 🐿
 
 
-<style>
-  body{
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  body .t :hover{
-    color: pink;
-  }
-  
-</style>
-
-<body>
-<ul class="t">
+<ul>
   <li><a href="https://galactiko.net">Fembot</a> developer</li>
  <li>Pizza enjoyer</li>
  <li>14yo</li>
