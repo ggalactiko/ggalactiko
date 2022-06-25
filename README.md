@@ -1,10 +1,13 @@
 
 ## Hi, I’m ggalactiko 🐿
 
-- [Fembot](https://galactiko.net) developer
-- Pizza enjoyer 
-- 14yo
-- faggot
+
+<ul>
+  <li><a href="https://galactiko.net" target="_blank">Fembot</a> developer</li>
+ <li>Pizza enjoyer</li>
+ <li>14yo</li>
+ <li>faggot</li>
+</ul>
 
 ### 
 
