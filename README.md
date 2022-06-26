@@ -1,5 +1,5 @@
 
-<h1> Hi, I’m ggalactiko 🐿 </h1>
+<h1> I’m ggalactiko  </h1>
 
 
 <ul>
